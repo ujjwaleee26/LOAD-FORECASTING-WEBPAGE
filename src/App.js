@@ -6,6 +6,7 @@ import M2 from './M2';
 import M3 from './M3'; 
 import MLR from './MultiLinear';
 import Front from './Front';
+import F4 from './F4';
 import './App.css';
 
 function App() {
@@ -33,6 +34,9 @@ function App() {
        <br/>
        <br/>
        <M3></M3>
+       <br></br>
+       <br/>
+       <F4></F4>
     </div>
   );
 }
